@@ -1,4 +1,4 @@
-> [EN](README_EN.md) (施工中)
+> [EN](i18n/README_EN.md) (施工中)
 # 😴如何早起😴
 - 这是一个关于**如何早起**的东西。😴
 - 建议先要早睡然后再早起哦~（[🌞如何早起🌞](https://github.com/haeob/HowToEarlyRise)）
