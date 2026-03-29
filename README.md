@@ -6,3 +6,7 @@
 ## 如何贡献
 
 - Pr到`Card`目录下即可。（暂且这样）
+
+
+## 相关
+- [😴如何早睡😴](https://github.com/haeob/HowToEarlySleep)
