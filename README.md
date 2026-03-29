@@ -10,3 +10,4 @@
 
 ## 相关
 - [😴如何早睡😴](https://github.com/haeob/HowToEarlySleep)
+- [muafi](https://github.com/haeob/muafi)
