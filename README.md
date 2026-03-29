@@ -1,7 +1,8 @@
 > [EN]() (施工中)
 # 😴如何早起😴
 - 这是一个关于**如何早起**的东西。😴
-- 建议先要早睡然后再早起哦~（[🌞如何早起🌞](https://github.com/haeob/HowToEarlyRise)）（当然也会有一些不早睡但做到早起的方法😈）
+- 建议先要早睡然后再早起哦~（[🌞如何早起🌞](https://github.com/haeob/HowToEarlyRise)）
+  - （当然也会有一些不早睡但做到早起的方法😈）
 
 ## MOC
 
